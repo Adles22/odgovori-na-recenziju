@@ -10,12 +10,16 @@ Holmes review
 [ ] 1. "the set-theoretical program succeeded" pročitati i pogledati ostala dva članka (Vedran)
 [x]    - Tin poslati Vedranu
 [ ] 2. "polymorphyc set theoretic" (Tin) 
-- da, super. Možda možemo dokazati Boffu kolapsom kao  što holmes napominje za MacLaneovu teoriju u svm članku, ali nema dokaza pa nemamo što citirati. Možemo samo reći da Holmes daje skicu na MacLanea, a ostali mu moraju vjerovati na riječ za Boffu. 
+- da, super. Možda možemo dokazati Boffu kolapsom kao  što holmes napominje za MacLaneovu teoriju u svm članku,
+  ali nema dokaza pa nemamo što citirati. Možemo samo reći da Holmes daje skicu na MacLanea, a ostali mu moraju
+  vjerovati na riječ za Boffu. 
   Nemamo razloga to citirati, ali imamo razloga za razmisliti o tome za sljedeći članak :)
 [ ] 3. "alternative set theory" - objasnit grešku
        u članku jer nisu naveli uvjet beskonačnosti (Veky)
 [ ] 4. popraviti u članku ono u vezi jakih aksioma beskonačnosti (Tin)
-- Holmes dokazuje da postoji model za NFU + Inf + AC + Counting, ali ne Boffinom konstrukcijom već nekim specijalnim iteriranim produktima. Predlažem da zajedno protrčimo kroz to da nisam nešto slučajno previdio. Boffina metoda je, naravno, samo ukratko skicirana.
+- Holmes dokazuje da postoji model za NFU + Inf + AC + Counting, ali ne Boffinom konstrukcijom već nekim 
+  specijalnim iteriranim produktima. Predlažem da zajedno protrčimo kroz to da nisam nešto slučajno previdio.
+  Boffina metoda je, naravno, samo ukratko skicirana.
 [x] 5. sligtingly malo popraviti (Tin)
 [ ]    u odgovor na recenziju objasniti da je outlined riječ upotrijebljena od strane autora
 [x] 6. pogledati dokaz tm25 (Vedran)
